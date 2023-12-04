@@ -10,6 +10,8 @@ const App = () => {
           <Nav logo= {logo} links ={links} />
         <Header text= {headerText} bgColor ='info' />
         <br/>
+        <Nav logo = {logo} links  />
+
         <Header />
 
         </div>
