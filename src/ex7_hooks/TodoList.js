@@ -32,10 +32,10 @@ const TodoList = () => {
           setTodos(apiResponseData);
         
         },[]);
-            
-                        
-            
-      
+
+
+
+        
     return (
         <div className ='container mt-5'>
        <h1>Todo List</h1>
